@@ -1,10 +1,10 @@
 # Web Application Authentication
 ## Table of Contents
 * [About This Project](#-about-this-project)
-* [Features](#features)
-* [Technologies](#technologies)
-* [Overview](#overview)
-* [Contact Me](#contact-me)
+* [Features](#-features)
+* [Technologies](#-technologies)
+* [Overview](#-overview)
+* [Contact Me](#-contact-me)
 
 ---
 
