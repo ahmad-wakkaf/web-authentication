@@ -2,7 +2,7 @@
 ## Table of Contents
 * [About This Project](#-about-this-project)
 * [Features](#-features)
-* [Technologies](#-technologies)
+* [Technologies](#%EF%B8%8F-technologies)
 * [Overview](#-overview)
 * [Contact Me](#-contact-me)
 
